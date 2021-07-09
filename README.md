@@ -1,4 +1,4 @@
-:rocket: ## Hello world, i'm Marcus Vinicius :rocket:
+ ## :rocket: Hello world, i'm Marcus Vinicius :rocket:
 
 
 :computer: Frontend Developer && Computer Technician :alien: 
