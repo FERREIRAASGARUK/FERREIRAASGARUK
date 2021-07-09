@@ -3,7 +3,7 @@
 :computer: Frontend Developer && Computer Technician :alien: 
 
 
-<img src="{https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}"/>
+<img align="right" width="400" height="400"   src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 
 <!--
