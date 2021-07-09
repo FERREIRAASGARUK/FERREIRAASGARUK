@@ -1,7 +1,11 @@
 ## Hello world, i'm Marcus Vinicius👋
 
+:computer: Frontend Developer && Computer Technician :alien: 
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
-:alien: :computer: Frontend Developer
+<img src="{https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/FERREIRAASGARUK}" />
+
+
 <!--
 **FERREIRAASGARUK/FERREIRAASGARUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
