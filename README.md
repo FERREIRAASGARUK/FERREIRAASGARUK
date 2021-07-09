@@ -1,7 +1,7 @@
- ## :rocket: Hello world, i'm Marcus Vinicius :rocket:
+ ## :alien: Hello world, i'm Marcus Vinicius :rocket:
 
 
-:computer: Frontend Developer && Computer Technician :alien: 
+:computer: Frontend Developer && Computer Technician 
 
 
 <a href="https://github.com/FERREIRAASGARUK"><img height="50"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/FERREIRAASGARUK"/></a>
